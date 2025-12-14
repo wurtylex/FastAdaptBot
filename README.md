@@ -9,6 +9,11 @@ Your mileage may vary if you decide to use this.
 
 Read the writeup for more details!
 
+## Model
+You can find the base URDF for the PhantomX robot [here](https://github.com/HumaRobotics/phantomx_description).
+
+We have made several custom modifications and degradations to the original model. However, due to potential distribution issues, these modifications have not been shared publicly in the repository.
+
 # Results
 Here we have a speed comparison between no adaptation and adaptation.
 We observe that an adapted step takes about four times longer, which is still fast enough for rendering, but its performance in a real-world scenario remains uncertain.
