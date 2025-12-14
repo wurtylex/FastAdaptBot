@@ -19,17 +19,17 @@ We have made several custom modifications and degradations to the original model
 Here we have a speed comparison between no adaptation and adaptation.
 We observe that an adapted step takes about four times longer, which is still fast enough for rendering, but its performance in a real-world scenario remains uncertain.
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<p align="center">
   <img src="Results/no adaptation.png" alt="No Adaptation" width="45%" />
   <img src="Results/adaptation.png" alt="Adaptation" width="45%" />
-</div>
+</p>
 
 ## 2 legged robot walking 
 Note speed up 2.5x
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<p align="center">
   <img src="Results/no adapt (2 legs).gif" alt="No Adaptation" width="45%" />
   <img src="Results/adapt (2 legs).gif" alt="Adaptation" width="45%" />
-</div>
+</p>
 
 ## 4 legged robot walking 
 Note speed up 2.5x
