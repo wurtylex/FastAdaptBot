@@ -13,7 +13,7 @@ Read the writeup for more details!
 Here we have a speed comparison between no adaptation and adaptation.
 We observe that an adapted step takes about four times longer, which is still fast enough for rendering, but its performance in a real-world scenario remains uncertain.
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="Results/no adaptation.png" alt="No Adaptation" width="45%" />
   <img src="Results/adaptation.png" alt="Adaptation" width="45%" />
 </div>
