@@ -17,3 +17,10 @@ We observe that an adapted step takes about four times longer, which is still fa
   <img src="Results/no adaptation.png" alt="No Adaptation" width="45%" />
   <img src="Results/adaptation.png" alt="Adaptation" width="45%" />
 </div>
+## 2 legged robot walking 
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="Results/adapt (2 legs).gif" alt="No Adaptation" width="45%" />
+  <img src="Results/no adapt (2 legs).gif" alt="Adaptation" width="45%" />
+</div>
+- Left: No adaptation
+- Right: Adaptation
