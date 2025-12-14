@@ -5,6 +5,7 @@ This repository contains the code for our final project in COMS 4733 ([Course Li
 - **RL**: Contains the code for training the baseline model.
 - **Writeup**: Contains our writeup.
 - **main.py**: Provides examples of how to use the various components of the project.
+
 Your mileage may vary if you decide to use this.
 
 Read the writeup for more details!
